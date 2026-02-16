@@ -36,9 +36,9 @@ Agradecimentos da Microsoft:
 
 Fotos no evento:
 
-![Renato no Hub 1](img/foundry-iq-05.jpeg)
+![Renato no Hub 1](img/foundry-iq-06.jpeg)
 
-![Renato no Hub 2](img/foundry-iq-06.jpeg)
+![Renato no Hub 2](img/foundry-iq-05.jpeg)
 
 ![Renato no Hub 3](img/foundry-iq-03.jpeg)
 
