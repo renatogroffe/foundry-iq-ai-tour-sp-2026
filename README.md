@@ -12,6 +12,8 @@ A seguir temos um diagrama de uma arquitetura possível baseada na adoção do *
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
+![Fontes para o Foundry IQ](img/arquitetura-foundry-iq.png)
+
 ---
 
 Local do evento: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
