@@ -12,6 +12,8 @@ A seguir temos um diagrama de uma arquitetura possível baseada na adoção do *
 
 Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
 
+Site do evento: **https://aitour.microsoft.com/flow/microsoft/saopaulo26/landingpage/page/cityhome**
+
 Invite da Microsoft solicitando minha participação no **Connection Hub Station de Foundry IQ & Foundry Tools**:
 
 ![Invite 1](img/invite-01.png)
