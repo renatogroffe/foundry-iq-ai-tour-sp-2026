@@ -42,4 +42,10 @@ Fotos no evento:
 
 ![Renato no Hub 4](img/foundry-iq-08.jpeg)
 
+![Renato no Hub 5](img/foundry-iq-12.jpeg)
+
+![Renato no Hub 6](img/foundry-iq-01.jpeg)
+
+![Renato no Hub 7](img/foundry-iq-02.jpeg)
+
 ![Crachá](img/cracha.jpg)
