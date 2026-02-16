@@ -2,7 +2,9 @@
 Participação no Microsoft AI Tour 2026 em São Paulo-SP.
 
 
-Microsoft Foundry, Foundry IQ, OpenTelemetry, Azure Monitor, Application Insights, Grafana, Datadog, Microsoft Agent Framework, .NET, C#, Python...
+Microsoft Foundry, Foundry IQ, OpenTelemetry, Azure Monitor, Application Insights, Grafana, Datadog, Microsoft Agent Framework, .NET, C#, Python, Containers, Docker...
+
+A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ**, com o uso de alguns serviços que integram o **Microsoft Azure**:
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
