@@ -10,7 +10,7 @@ A seguir temos um diagrama de uma arquitetura possível baseada na adoção do *
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
-Invite da Microsoft solicitando minha participação no Connection Hub:
+Invite da Microsoft solicitando minha participação no **Connection Hub Station de Foundry IQ & Foundry Tools**:
 
 ![Invite 1](img/invite-01.png)
 
@@ -21,3 +21,6 @@ Invite da Microsoft solicitando minha participação no Connection Hub:
 Agradecimentos da Microsoft:
 
 ![Agradecimentos](img/mail-thank-you.png)
+
+Fotos no evento:
+
