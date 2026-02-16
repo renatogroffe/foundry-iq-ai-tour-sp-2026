@@ -1,6 +1,6 @@
 # foundry-iq-ai-tour-sp-2026
 
-Fotos e informações gerais sobre minha participação no Connection Hub Expert de , durante a edição 2026 do Microsoft AI Tour em São Paulo-SP em 11/02/2026 (quarta-feira).
+Fotos e informações gerais sobre minha participação no Connection Hub Expert de Foundry IQ & Foundry Tools, durante a edição 2026 do Microsoft AI Tour em São Paulo-SP em 11/02/2026 (quarta-feira).
 
 Público que passou pelo espaço: **40 participantes (estimativa)**
 
@@ -14,7 +14,7 @@ Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - S
 
 Site do evento: **https://aitour.microsoft.com/flow/microsoft/saopaulo26/landingpage/page/cityhome**
 
-Deixo aqui meu agradecimentos à **Microsoft**, em especial à **Cristina González Herrero**, ao  e à **Larissa Cyganski** pela oportunidade e todo o apoio para que eu participasse do Hub Expert nesta edição do **Microsoft AI Tour** em **São Paulo-SP**.
+Deixo aqui meu agradecimentos à **Microsoft**, em especial à **Cristina González Herrero**, ao **Felipe Amaral**, ao **Victor Yrigiyen Rodrigues** e ao **Igor de Aguiar** pela oportunidade e todo o apoio para que eu participasse do **Connection Hub Station** nesta edição do **Microsoft AI Tour** em **São Paulo-SP**.
 
 Invite da Microsoft solicitando minha participação no **Connection Hub Station de Foundry IQ & Foundry Tools**:
 
