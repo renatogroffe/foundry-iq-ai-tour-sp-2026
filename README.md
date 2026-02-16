@@ -1,4 +1,4 @@
-# foundry-iq-ai-tour-sp-2026
+# Minha participação no Microsoft AI Tour 2026 em São Paulo-SP
 
 Fotos e informações gerais sobre minha participação no Connection Hub Expert de Foundry IQ & Foundry Tools, durante a edição 2026 do Microsoft AI Tour em São Paulo-SP em 11/02/2026 (quarta-feira).
 
