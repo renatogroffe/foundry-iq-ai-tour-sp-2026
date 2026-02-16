@@ -6,11 +6,15 @@ Público que passou pelo espaço: **40 participantes (estimativa)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, RAG, Agents, Microsoft Foundry, Foundry IQ, Azure AI Search, OpenTelemetry, Containers, Docker, Azure Monitor, Application Insights, Grafana, Azure Functions, Azure App Service, Datadog, Microsoft Agent Framework, .NET, C#, Python, Azure Container Registry, OneLake, Azure Storage, Azure Service Fabric, Azure SQL Database, Azure Cosmos DB...**
 
-A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ** discutida com partipantes que passaram pelo Hub, com o uso de alguns serviços que integram o **Microsoft Azure**:
+Durante o evento estive em algumas discussões técnicas com o **Victor Yrigiyen Rodrigues (Microsoft)** e o **Y (Microsoft)** junto a participantes, abordando o uso do **Microsoft Foundry**, **Foundry IQ**, integrações com **MCP Servers**, **Microsoft Agent Framework** e a implementação de **observabilidade/monitoramento** em soluções de IA (via **OpenTelemetry**, com alternativas como **Azure Monitor/Application Insights, Grafana, Datadog...**).
+
+A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ** e apresentada a partipantes que passaram pelo Hub, com o uso de alguns serviços que integram o **Microsoft Azure**:
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
-Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
+---
+
+Local do evento: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
 
 Site do evento: **https://aitour.microsoft.com/flow/microsoft/saopaulo26/landingpage/page/cityhome**
 
