@@ -1,10 +1,13 @@
 # foundry-iq-ai-tour-sp-2026
 Participação no Microsoft AI Tour 2026 em São Paulo-SP.
 
+Fotos e informações gerais sobre minha participação no Hub Expert, durante o Microsoft AI Tour em São Paulo-SP no dia 11/02/2026 (quarta-feira).
 
-Microsoft Foundry, Foundry IQ, OpenTelemetry, Azure Monitor, Application Insights, Grafana, Datadog, Microsoft Agent Framework, .NET, C#, Python, Containers, Docker...
+Público que passou pelo espaço: **40 participantes (estimativa)**
 
-A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ**, com o uso de alguns serviços que integram o **Microsoft Azure**:
+Microsoft Foundry, Foundry IQ, OpenTelemetry, Azure Monitor, Application Insights, Grafana, Azure Functions, Azure App Service, Datadog, Microsoft Agent Framework, .NET, C#, Python, Containers, Docker, Azure Container Registry...
+
+A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ** discutida com partipantes que passaram pelo Hub, com o uso de alguns serviços que integram o **Microsoft Azure**:
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
