@@ -11,10 +11,14 @@ A seguir temos um diagrama de uma arquitetura possível baseada na adoção do *
 
 ![Um arquitetura possível](img/arquitetura-foundry-iq.png)
 
+Invite da Microsoft solicitando minha participação no Connection Hub:
+
 ![Invite 1](img/invite-01.png)
 
 ![Invite 2](img/invite-02.png)
 
 ![Invite 3](img/invite-03.png)
+
+Agradecimentos da Microsoft:
 
 ![Agradecimentos](img/mail-thank-you.png)
