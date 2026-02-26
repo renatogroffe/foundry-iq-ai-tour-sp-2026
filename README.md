@@ -6,7 +6,7 @@ Público que passou pelo espaço: **40 participantes (estimativa)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, MCP, RAG, Agents, Microsoft Foundry, Foundry IQ, Azure AI Search, OpenTelemetry, Containers, Docker, Azure Monitor, Application Insights, Grafana, Azure Functions, Azure App Service, Datadog, Microsoft Agent Framework, .NET, C#, Python, Azure Container Registry, OneLake, Azure Storage, Azure Service Fabric, Azure SQL Database, Azure Cosmos DB...**
 
-Durante o evento estive em algumas discussões técnicas com o **Victor Yrigiyen Rodrigues (Microsoft)** e o **Y (Microsoft)** junto a participantes, abordando o uso do **Microsoft Foundry**, **Foundry IQ**, integrações com **MCP Servers**, **Microsoft Agent Framework** e a implementação de **observabilidade/monitoramento** em soluções de IA (via **OpenTelemetry**, com alternativas como **Azure Monitor/Application Insights, Grafana, Datadog...**).
+Durante o evento estive em algumas discussões técnicas com o **Victor Yrigiyen Rodrigues (Microsoft)** e o **Igor de Aguiar (Microsoft)** junto a participantes, abordando o uso do **Microsoft Foundry**, **Foundry IQ**, integrações com **MCP Servers**, **Microsoft Agent Framework** e a implementação de **observabilidade/monitoramento** em soluções de IA (via **OpenTelemetry**, com alternativas como **Azure Monitor/Application Insights, Grafana, Datadog...**).
 
 A seguir temos um diagrama de uma arquitetura possível baseada na adoção do **Foundry IQ** e apresentada a partipantes que passaram pelo Hub, com o uso de alguns serviços que integram o **Microsoft Azure**:
 
